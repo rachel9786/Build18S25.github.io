@@ -1,6 +1,6 @@
+This website is made by team SEAMOSS for Spring 2025 Build 18 project
+written by Rachel Lewis, Tiffany Yang
+other teammates: Zhuoyi Zou, Sophia Kim, Shao-ju Wang
 
-
-This website is published on CMU's UserWeb service
-
-to publish updates from this www folder go to the following URL:
-    https://www.andrew.cmu.edu/server/publish.html
+It serves as the webapp for our "A.I. OmniConsole" which is an desktop information hub to make human life more convenient.
+This webapp sends information to the console via SSH to display widgets of choice.
